@@ -1,0 +1,18 @@
+[
+  {
+    "MedicineID": 3,
+    "Name": "Paracetamol",
+    "Price": 50.0,
+    "Quantity": 160,
+    "ExpiryDate": "2025-05-23T20:08:15",
+    "Category": "Painkiller"
+  },
+  {
+    "MedicineID": 2,
+    "Name": "Panadol",
+    "Price": 20.0,
+    "Quantity": 0,
+    "ExpiryDate": "2025-05-07T20:09:20",
+    "Category": "Painkiller"
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.Forms.LoginForm.resources
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\Pharmacy.3F0D6835.Up2Date
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.Forms.CustomerManagementForm.resources
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.exe.config
+C:\Users\youss\Desktop\PharmacyManagementSystem-main\obj\Debug\PharmacyManagementSystem.Forms.MainForm.resources

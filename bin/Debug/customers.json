@@ -1,0 +1,20 @@
+[
+  {
+    "CustomerID": 1,
+    "Name": "Medohas",
+    "Contact": "01096457077",
+    "Email": "youssefsherifabdo@gmail.com"
+  },
+  {
+    "CustomerID": 2,
+    "Name": "John Doe",
+    "Contact": "0566022110",
+    "Email": "johndoe@gmail.com"
+  },
+  {
+    "CustomerID": 3,
+    "Name": "Youssef",
+    "Contact": "01007170120",
+    "Email": ""
+  }
+]

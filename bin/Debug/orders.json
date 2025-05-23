@@ -1,0 +1,173 @@
+[
+  {
+    "OrderID": 1,
+    "Customer": {
+      "CustomerID": 1,
+      "Name": "Medohas",
+      "Contact": "01096457077",
+      "Email": "youssefsherifabdo@gmail.com"
+    },
+    "Medicines": [
+      {
+        "MedicineID": 1,
+        "Name": "Paracetamol",
+        "Price": 50.0,
+        "Quantity": 5,
+        "ExpiryDate": "2026-01-21T20:08:15",
+        "Category": "Painkiller"
+      },
+      {
+        "MedicineID": 2,
+        "Name": "Panadol",
+        "Price": 20.0,
+        "Quantity": 2,
+        "ExpiryDate": "2025-05-07T20:09:20",
+        "Category": "Painkiller"
+      }
+    ],
+    "TotalAmount": 290.0,
+    "OrderDate": "2025-05-19T20:12:38.7555238+03:00"
+  },
+  {
+    "OrderID": 2,
+    "Customer": {
+      "CustomerID": 1,
+      "Name": "Medohas",
+      "Contact": "01096457077",
+      "Email": "youssefsherifabdo@gmail.com"
+    },
+    "Medicines": [
+      {
+        "MedicineID": 1,
+        "Name": "Paracetamol",
+        "Price": 50.0,
+        "Quantity": 9,
+        "ExpiryDate": "2026-01-21T20:08:15",
+        "Category": "Painkiller"
+      }
+    ],
+    "TotalAmount": 450.0,
+    "OrderDate": "2025-05-19T20:18:35.5925511+03:00"
+  },
+  {
+    "OrderID": 3,
+    "Customer": {
+      "CustomerID": 2,
+      "Name": "John Doe",
+      "Contact": "0566022110",
+      "Email": "johndoe@gmail.com"
+    },
+    "Medicines": [
+      {
+        "MedicineID": 3,
+        "Name": "Paracetamol",
+        "Price": 50.0,
+        "Quantity": 1,
+        "ExpiryDate": "2026-01-21T20:08:15",
+        "Category": "Painkiller"
+      },
+      {
+        "MedicineID": 2,
+        "Name": "Panadol",
+        "Price": 20.0,
+        "Quantity": 3,
+        "ExpiryDate": "2025-05-07T20:09:20",
+        "Category": "Painkiller"
+      }
+    ],
+    "TotalAmount": 110.0,
+    "OrderDate": "2025-05-23T23:47:39.8391643+03:00"
+  },
+  {
+    "OrderID": 4,
+    "Customer": {
+      "CustomerID": 3,
+      "Name": "Youssef",
+      "Contact": "01007170120",
+      "Email": ""
+    },
+    "Medicines": [
+      {
+        "MedicineID": 1,
+        "Name": "Paracetamol",
+        "Price": 50.0,
+        "Quantity": 5,
+        "ExpiryDate": "2026-01-21T20:08:15",
+        "Category": "Painkiller"
+      },
+      {
+        "MedicineID": 2,
+        "Name": "Panadol",
+        "Price": 20.0,
+        "Quantity": 5,
+        "ExpiryDate": "2025-05-07T20:09:20",
+        "Category": "Painkiller"
+      }
+    ],
+    "TotalAmount": 350.0,
+    "OrderDate": "2025-05-24T01:18:45.9738922+03:00"
+  },
+  {
+    "OrderID": 5,
+    "Customer": {
+      "CustomerID": 3,
+      "Name": "Youssef",
+      "Contact": "01007170120",
+      "Email": ""
+    },
+    "Medicines": [
+      {
+        "MedicineID": 2,
+        "Name": "Panadol",
+        "Price": 20.0,
+        "Quantity": 80,
+        "ExpiryDate": "2025-05-07T20:09:20",
+        "Category": "Painkiller"
+      }
+    ],
+    "TotalAmount": 1600.0,
+    "OrderDate": "2025-05-24T01:41:34.1343139+03:00"
+  },
+  {
+    "OrderID": 6,
+    "Customer": {
+      "CustomerID": 1,
+      "Name": "Medohas",
+      "Contact": "01096457077",
+      "Email": "youssefsherifabdo@gmail.com"
+    },
+    "Medicines": [
+      {
+        "MedicineID": 2,
+        "Name": "Panadol",
+        "Price": 20.0,
+        "Quantity": 10,
+        "ExpiryDate": "2025-05-07T20:09:20",
+        "Category": "Painkiller"
+      }
+    ],
+    "TotalAmount": 200.0,
+    "OrderDate": "2025-05-24T01:43:12.573217+03:00"
+  },
+  {
+    "OrderID": 7,
+    "Customer": {
+      "CustomerID": 1,
+      "Name": "Medohas",
+      "Contact": "01096457077",
+      "Email": "youssefsherifabdo@gmail.com"
+    },
+    "Medicines": [
+      {
+        "MedicineID": 3,
+        "Name": "Paracetamol",
+        "Price": 50.0,
+        "Quantity": 20,
+        "ExpiryDate": "2025-05-23T20:08:15",
+        "Category": "Painkiller"
+      }
+    ],
+    "TotalAmount": 1000.0,
+    "OrderDate": "2025-05-24T01:44:20.6469424+03:00"
+  }
+]
